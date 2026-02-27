@@ -53,7 +53,7 @@ Undergraduate SAMPS, NTUA
 
 ---
 
-## 🟨 requirements.txt (copy‑paste)
+## Requirements
 
 ```txt
 torch
