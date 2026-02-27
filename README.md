@@ -37,8 +37,30 @@ python spam_classifier.py
 predict("Congratulations! You won a free ticket!")
 # → "spam"
 
-# Αποτελέσματα
+# Results
 Το DistilBERT πετυχαίνει:
 - 97–99% accuracy
 - Πολύ καλή γενίκευση σε πραγματικά SMS
+
+
+# License
+MIT License
+
+# Συγγραφέας
+Ελένη Στιβακτάκη
+Undergraduate SAMPS, NTUA
+
+
+---
+
+## 🟨 requirements.txt (copy‑paste)
+
+```txt
+torch
+transformers
+scikit-learn
+pandas
+pickle5
+```
+
 
