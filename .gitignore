@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+
+# Virtual environments
+venv/
+env/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Model files
+model/clf/pytorch_model.bin
+model/clf/tf_model.h5
+
+# Dataset (μην ανέβει στο GitHub)
+SMSSpamCollection
+
+# System files
+.DS_Store
+Thumbs.db
